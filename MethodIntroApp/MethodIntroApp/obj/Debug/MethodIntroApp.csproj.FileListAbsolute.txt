@@ -1,0 +1,6 @@
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\MethodIntroApp\MethodIntroApp\bin\Debug\MethodIntroApp.exe.config
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\MethodIntroApp\MethodIntroApp\bin\Debug\MethodIntroApp.exe
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\MethodIntroApp\MethodIntroApp\bin\Debug\MethodIntroApp.pdb
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\MethodIntroApp\MethodIntroApp\obj\Debug\MethodIntroApp.csprojResolveAssemblyReference.cache
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\MethodIntroApp\MethodIntroApp\obj\Debug\MethodIntroApp.exe
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\MethodIntroApp\MethodIntroApp\obj\Debug\MethodIntroApp.pdb

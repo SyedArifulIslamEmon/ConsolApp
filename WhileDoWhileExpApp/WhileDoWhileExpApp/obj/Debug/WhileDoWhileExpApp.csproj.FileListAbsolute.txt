@@ -1,0 +1,6 @@
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\WhileDoWhileExpApp\WhileDoWhileExpApp\bin\Debug\WhileDoWhileExpApp.exe.config
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\WhileDoWhileExpApp\WhileDoWhileExpApp\bin\Debug\WhileDoWhileExpApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\WhileDoWhileExpApp\WhileDoWhileExpApp\bin\Debug\WhileDoWhileExpApp.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\WhileDoWhileExpApp\WhileDoWhileExpApp\obj\Debug\WhileDoWhileExpApp.csprojResolveAssemblyReference.cache
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\WhileDoWhileExpApp\WhileDoWhileExpApp\obj\Debug\WhileDoWhileExpApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\WhileDoWhileExpApp\WhileDoWhileExpApp\obj\Debug\WhileDoWhileExpApp.pdb

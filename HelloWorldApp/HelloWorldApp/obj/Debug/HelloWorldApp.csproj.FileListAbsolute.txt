@@ -1,0 +1,6 @@
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csprojResolveAssemblyReference.cache
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb

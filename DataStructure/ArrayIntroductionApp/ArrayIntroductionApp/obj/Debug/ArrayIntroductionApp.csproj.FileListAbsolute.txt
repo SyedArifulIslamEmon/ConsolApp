@@ -1,0 +1,6 @@
+G:\EMON_100134\31-3-15_2nd lecture\DataStructure\ArrayIntroductionApp\ArrayIntroductionApp\bin\Debug\ArrayIntroductionApp.exe.config
+G:\EMON_100134\31-3-15_2nd lecture\DataStructure\ArrayIntroductionApp\ArrayIntroductionApp\bin\Debug\ArrayIntroductionApp.exe
+G:\EMON_100134\31-3-15_2nd lecture\DataStructure\ArrayIntroductionApp\ArrayIntroductionApp\bin\Debug\ArrayIntroductionApp.pdb
+G:\EMON_100134\31-3-15_2nd lecture\DataStructure\ArrayIntroductionApp\ArrayIntroductionApp\obj\Debug\ArrayIntroductionApp.csprojResolveAssemblyReference.cache
+G:\EMON_100134\31-3-15_2nd lecture\DataStructure\ArrayIntroductionApp\ArrayIntroductionApp\obj\Debug\ArrayIntroductionApp.exe
+G:\EMON_100134\31-3-15_2nd lecture\DataStructure\ArrayIntroductionApp\ArrayIntroductionApp\obj\Debug\ArrayIntroductionApp.pdb

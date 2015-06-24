@@ -1,0 +1,6 @@
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\ArrayIntroApp\ArrayIntroApp\bin\Debug\ArrayIntroApp.exe.config
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\ArrayIntroApp\ArrayIntroApp\bin\Debug\ArrayIntroApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\ArrayIntroApp\ArrayIntroApp\bin\Debug\ArrayIntroApp.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\ArrayIntroApp\ArrayIntroApp\obj\Debug\ArrayIntroApp.csprojResolveAssemblyReference.cache
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\ArrayIntroApp\ArrayIntroApp\obj\Debug\ArrayIntroApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\ArrayIntroApp\ArrayIntroApp\obj\Debug\ArrayIntroApp.pdb

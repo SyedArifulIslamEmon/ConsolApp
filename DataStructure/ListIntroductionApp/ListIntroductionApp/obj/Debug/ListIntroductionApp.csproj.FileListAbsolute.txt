@@ -1,0 +1,5 @@
+G:\EMON_100134\31-3-15_2nd lecture\DataStructure\ListIntroductionApp\ListIntroductionApp\bin\Debug\ListIntroductionApp.exe.config
+G:\EMON_100134\31-3-15_2nd lecture\DataStructure\ListIntroductionApp\ListIntroductionApp\bin\Debug\ListIntroductionApp.exe
+G:\EMON_100134\31-3-15_2nd lecture\DataStructure\ListIntroductionApp\ListIntroductionApp\bin\Debug\ListIntroductionApp.pdb
+G:\EMON_100134\31-3-15_2nd lecture\DataStructure\ListIntroductionApp\ListIntroductionApp\obj\Debug\ListIntroductionApp.exe
+G:\EMON_100134\31-3-15_2nd lecture\DataStructure\ListIntroductionApp\ListIntroductionApp\obj\Debug\ListIntroductionApp.pdb

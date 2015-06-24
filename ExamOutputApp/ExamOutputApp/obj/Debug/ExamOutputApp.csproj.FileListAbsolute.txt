@@ -1,0 +1,6 @@
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\22.04.2015\ExamOutputApp\ExamOutputApp\bin\Debug\ExamOutputApp.exe.config
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\22.04.2015\ExamOutputApp\ExamOutputApp\obj\Debug\ExamOutputApp.csprojResolveAssemblyReference.cache
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\22.04.2015\ExamOutputApp\ExamOutputApp\bin\Debug\ExamOutputApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\22.04.2015\ExamOutputApp\ExamOutputApp\bin\Debug\ExamOutputApp.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\22.04.2015\ExamOutputApp\ExamOutputApp\obj\Debug\ExamOutputApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\22.04.2015\ExamOutputApp\ExamOutputApp\obj\Debug\ExamOutputApp.pdb

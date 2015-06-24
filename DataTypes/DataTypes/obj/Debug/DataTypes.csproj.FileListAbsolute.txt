@@ -1,0 +1,6 @@
+L:\EMON_100134\DataTypes\DataTypes\bin\Debug\DataTypes.exe.config
+L:\EMON_100134\DataTypes\DataTypes\bin\Debug\DataTypes.exe
+L:\EMON_100134\DataTypes\DataTypes\bin\Debug\DataTypes.pdb
+L:\EMON_100134\DataTypes\DataTypes\obj\Debug\DataTypes.csprojResolveAssemblyReference.cache
+L:\EMON_100134\DataTypes\DataTypes\obj\Debug\DataTypes.exe
+L:\EMON_100134\DataTypes\DataTypes\obj\Debug\DataTypes.pdb

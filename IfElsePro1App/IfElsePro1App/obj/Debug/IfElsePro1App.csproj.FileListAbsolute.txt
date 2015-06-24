@@ -1,0 +1,5 @@
+G:\muna\IfElsePro1App\IfElsePro1App\bin\Debug\IfElsePro1App.exe.config
+G:\muna\IfElsePro1App\IfElsePro1App\bin\Debug\IfElsePro1App.exe
+G:\muna\IfElsePro1App\IfElsePro1App\bin\Debug\IfElsePro1App.pdb
+G:\muna\IfElsePro1App\IfElsePro1App\obj\Debug\IfElsePro1App.exe
+G:\muna\IfElsePro1App\IfElsePro1App\obj\Debug\IfElsePro1App.pdb

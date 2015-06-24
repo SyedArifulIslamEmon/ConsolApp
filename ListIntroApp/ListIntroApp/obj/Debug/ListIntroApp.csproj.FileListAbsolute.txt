@@ -1,0 +1,5 @@
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\ListIntroApp\ListIntroApp\bin\Debug\ListIntroApp.exe.config
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\ListIntroApp\ListIntroApp\bin\Debug\ListIntroApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\ListIntroApp\ListIntroApp\bin\Debug\ListIntroApp.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\ListIntroApp\ListIntroApp\obj\Debug\ListIntroApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\ListIntroApp\ListIntroApp\obj\Debug\ListIntroApp.pdb

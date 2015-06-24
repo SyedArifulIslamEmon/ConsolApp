@@ -1,0 +1,6 @@
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\DataTypeApp\DataTypeApp\bin\Debug\DataTypeApp.exe.config
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\DataTypeApp\DataTypeApp\bin\Debug\DataTypeApp.exe
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\DataTypeApp\DataTypeApp\bin\Debug\DataTypeApp.pdb
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\DataTypeApp\DataTypeApp\obj\Debug\DataTypeApp.csprojResolveAssemblyReference.cache
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\DataTypeApp\DataTypeApp\obj\Debug\DataTypeApp.exe
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\DataTypeApp\DataTypeApp\obj\Debug\DataTypeApp.pdb

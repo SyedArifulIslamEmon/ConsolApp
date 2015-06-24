@@ -1,0 +1,15 @@
+L:\EMON_100134\Hw1\Hw1\bin\Debug\Hw1.exe.config
+L:\EMON_100134\Hw1\Hw1\obj\Debug\Hw1.csprojResolveAssemblyReference.cache
+L:\EMON_100134\Hw1\Hw1\bin\Debug\Hw1.exe
+L:\EMON_100134\Hw1\Hw1\bin\Debug\Hw1.pdb
+L:\EMON_100134\Hw1\Hw1\obj\Debug\Hw1.exe
+L:\EMON_100134\Hw1\Hw1\obj\Debug\Hw1.pdb
+G:\EMON_100134\1st lecture\Hw1\Hw1\bin\Debug\Hw1.exe.config
+G:\EMON_100134\1st lecture\Hw1\Hw1\obj\Debug\Hw1.exe
+G:\EMON_100134\1st lecture\Hw1\Hw1\obj\Debug\Hw1.pdb
+G:\EMON_100134\1st lecture\Hw1\Hw1\bin\Debug\Hw1.exe
+G:\EMON_100134\1st lecture\Hw1\Hw1\bin\Debug\Hw1.pdb
+G:\EMON_100134\1st lecture\Hw1\Hw1\obj\Debug\Hw1.csprojResolveAssemblyReference.cache
+L:\Dot_NET_Batch_01_SAIEMON_100134\1st_lecture_29-3_2015\Hw1\Hw1\bin\Debug\Hw1.exe.config
+L:\Dot_NET_Batch_01_SAIEMON_100134\1st_lecture_29-3_2015\Hw1\Hw1\obj\Debug\Hw1.exe
+L:\Dot_NET_Batch_01_SAIEMON_100134\1st_lecture_29-3_2015\Hw1\Hw1\obj\Debug\Hw1.pdb

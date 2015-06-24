@@ -1,0 +1,9 @@
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\20.04.2015\WindowsFormIntroApp\WindowsFormIntroApp\bin\Debug\WindowsFormIntroApp.exe.config
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\20.04.2015\WindowsFormIntroApp\WindowsFormIntroApp\bin\Debug\WindowsFormIntroApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\20.04.2015\WindowsFormIntroApp\WindowsFormIntroApp\bin\Debug\WindowsFormIntroApp.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\20.04.2015\WindowsFormIntroApp\WindowsFormIntroApp\obj\Debug\WindowsFormIntroApp.csprojResolveAssemblyReference.cache
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\20.04.2015\WindowsFormIntroApp\WindowsFormIntroApp\obj\Debug\WindowsFormIntroApp.Form1.resources
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\20.04.2015\WindowsFormIntroApp\WindowsFormIntroApp\obj\Debug\WindowsFormIntroApp.Properties.Resources.resources
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\20.04.2015\WindowsFormIntroApp\WindowsFormIntroApp\obj\Debug\WindowsFormIntroApp.csproj.GenerateResource.Cache
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\20.04.2015\WindowsFormIntroApp\WindowsFormIntroApp\obj\Debug\WindowsFormIntroApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\20.04.2015\WindowsFormIntroApp\WindowsFormIntroApp\obj\Debug\WindowsFormIntroApp.pdb

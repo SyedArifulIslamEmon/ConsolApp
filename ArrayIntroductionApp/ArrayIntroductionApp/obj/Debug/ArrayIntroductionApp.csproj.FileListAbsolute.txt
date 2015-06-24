@@ -1,0 +1,6 @@
+D:\SEIP Project (.NET)\Batch 01\31.03.2015\ArrayIntroductionApp\ArrayIntroductionApp\bin\Debug\ArrayIntroductionApp.exe.config
+D:\SEIP Project (.NET)\Batch 01\31.03.2015\ArrayIntroductionApp\ArrayIntroductionApp\bin\Debug\ArrayIntroductionApp.exe
+D:\SEIP Project (.NET)\Batch 01\31.03.2015\ArrayIntroductionApp\ArrayIntroductionApp\bin\Debug\ArrayIntroductionApp.pdb
+D:\SEIP Project (.NET)\Batch 01\31.03.2015\ArrayIntroductionApp\ArrayIntroductionApp\obj\Debug\ArrayIntroductionApp.csprojResolveAssemblyReference.cache
+D:\SEIP Project (.NET)\Batch 01\31.03.2015\ArrayIntroductionApp\ArrayIntroductionApp\obj\Debug\ArrayIntroductionApp.exe
+D:\SEIP Project (.NET)\Batch 01\31.03.2015\ArrayIntroductionApp\ArrayIntroductionApp\obj\Debug\ArrayIntroductionApp.pdb

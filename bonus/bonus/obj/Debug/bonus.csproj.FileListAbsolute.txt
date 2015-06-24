@@ -1,0 +1,12 @@
+L:\bonus\bonus\bin\Debug\bonus.exe.config
+L:\bonus\bonus\obj\Debug\bonus.csprojResolveAssemblyReference.cache
+L:\bonus\bonus\bin\Debug\bonus.exe
+L:\bonus\bonus\bin\Debug\bonus.pdb
+L:\bonus\bonus\obj\Debug\bonus.exe
+L:\bonus\bonus\obj\Debug\bonus.pdb
+G:\Dot_NET_Batch_01_SAIEMON_100134\bonus\bonus\bin\Debug\bonus.exe.config
+G:\Dot_NET_Batch_01_SAIEMON_100134\bonus\bonus\obj\Debug\bonus.exe
+G:\Dot_NET_Batch_01_SAIEMON_100134\bonus\bonus\obj\Debug\bonus.pdb
+G:\Dot_NET_Batch_01_SAIEMON_100134\bonus\bonus\bin\Debug\bonus.exe
+G:\Dot_NET_Batch_01_SAIEMON_100134\bonus\bonus\bin\Debug\bonus.pdb
+G:\Dot_NET_Batch_01_SAIEMON_100134\bonus\bonus\obj\Debug\bonus.csprojResolveAssemblyReference.cache

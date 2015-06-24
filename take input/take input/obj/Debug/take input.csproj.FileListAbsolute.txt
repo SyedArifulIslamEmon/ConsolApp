@@ -1,0 +1,6 @@
+L:\EMON_100134\take input\take input\bin\Debug\take input.exe.config
+L:\EMON_100134\take input\take input\obj\Debug\take input.csprojResolveAssemblyReference.cache
+L:\EMON_100134\take input\take input\bin\Debug\take input.exe
+L:\EMON_100134\take input\take input\bin\Debug\take input.pdb
+L:\EMON_100134\take input\take input\obj\Debug\take input.exe
+L:\EMON_100134\take input\take input\obj\Debug\take input.pdb

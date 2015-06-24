@@ -1,0 +1,6 @@
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 01\05.04.2015\OutputTracingTest\OutputTracingTest\bin\Debug\OutputTracingTest.exe.config
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 01\05.04.2015\OutputTracingTest\OutputTracingTest\bin\Debug\OutputTracingTest.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 01\05.04.2015\OutputTracingTest\OutputTracingTest\bin\Debug\OutputTracingTest.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 01\05.04.2015\OutputTracingTest\OutputTracingTest\obj\Debug\OutputTracingTest.csprojResolveAssemblyReference.cache
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 01\05.04.2015\OutputTracingTest\OutputTracingTest\obj\Debug\OutputTracingTest.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 01\05.04.2015\OutputTracingTest\OutputTracingTest\obj\Debug\OutputTracingTest.pdb

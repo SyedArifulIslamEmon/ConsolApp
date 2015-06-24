@@ -1,0 +1,6 @@
+D:\SEIP Project (.NET)\Batch 01\31.03.2015\LoopApp\LoopApp\bin\Debug\LoopApp.exe.config
+D:\SEIP Project (.NET)\Batch 01\31.03.2015\LoopApp\LoopApp\bin\Debug\LoopApp.exe
+D:\SEIP Project (.NET)\Batch 01\31.03.2015\LoopApp\LoopApp\bin\Debug\LoopApp.pdb
+D:\SEIP Project (.NET)\Batch 01\31.03.2015\LoopApp\LoopApp\obj\Debug\LoopApp.csprojResolveAssemblyReference.cache
+D:\SEIP Project (.NET)\Batch 01\31.03.2015\LoopApp\LoopApp\obj\Debug\LoopApp.exe
+D:\SEIP Project (.NET)\Batch 01\31.03.2015\LoopApp\LoopApp\obj\Debug\LoopApp.pdb

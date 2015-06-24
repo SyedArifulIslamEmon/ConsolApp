@@ -1,0 +1,5 @@
+L:\EMON_100134\messagePrint\messagePrint\bin\Debug\messagePrint.exe.config
+L:\EMON_100134\messagePrint\messagePrint\bin\Debug\messagePrint.exe
+L:\EMON_100134\messagePrint\messagePrint\bin\Debug\messagePrint.pdb
+L:\EMON_100134\messagePrint\messagePrint\obj\Debug\messagePrint.exe
+L:\EMON_100134\messagePrint\messagePrint\obj\Debug\messagePrint.pdb

@@ -1,0 +1,6 @@
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\ifElseExpApp\ifElseExpApp\bin\Debug\ifElseExpApp.exe.config
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\ifElseExpApp\ifElseExpApp\bin\Debug\ifElseExpApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\ifElseExpApp\ifElseExpApp\bin\Debug\ifElseExpApp.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\ifElseExpApp\ifElseExpApp\obj\Debug\ifElseExpApp.csprojResolveAssemblyReference.cache
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\ifElseExpApp\ifElseExpApp\obj\Debug\ifElseExpApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\ifElseExpApp\ifElseExpApp\obj\Debug\ifElseExpApp.pdb

@@ -1,0 +1,12 @@
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 03\18.4.15\CircleApp\CircleApp\bin\Debug\CircleApp.exe.config
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 03\18.4.15\CircleApp\CircleApp\bin\Debug\CircleApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 03\18.4.15\CircleApp\CircleApp\bin\Debug\CircleApp.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 03\18.4.15\CircleApp\CircleApp\obj\Debug\CircleApp.csprojResolveAssemblyReference.cache
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 03\18.4.15\CircleApp\CircleApp\obj\Debug\CircleApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 03\18.4.15\CircleApp\CircleApp\obj\Debug\CircleApp.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\CircleApp\CircleApp\bin\Debug\CircleApp.exe.config
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\CircleApp\CircleApp\obj\Debug\CircleApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\CircleApp\CircleApp\obj\Debug\CircleApp.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\CircleApp\CircleApp\obj\Debug\CircleApp.csprojResolveAssemblyReference.cache
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\CircleApp\CircleApp\bin\Debug\CircleApp.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\18.04.2015\CircleApp\CircleApp\bin\Debug\CircleApp.pdb

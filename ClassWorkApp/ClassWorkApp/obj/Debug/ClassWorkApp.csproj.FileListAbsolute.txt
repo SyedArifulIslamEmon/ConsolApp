@@ -1,0 +1,2 @@
+G:\muna\ClassWorkApp\ClassWorkApp\bin\Debug\ClassWorkApp.exe.config
+G:\muna\ClassWorkApp\ClassWorkApp\obj\Debug\ClassWorkApp.csprojResolveAssemblyReference.cache

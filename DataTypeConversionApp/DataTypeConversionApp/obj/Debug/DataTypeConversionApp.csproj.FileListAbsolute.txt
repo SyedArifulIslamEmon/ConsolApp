@@ -1,0 +1,6 @@
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\DataTypeConversionApp\DataTypeConversionApp\bin\Debug\DataTypeConversionApp.exe.config
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\DataTypeConversionApp\DataTypeConversionApp\bin\Debug\DataTypeConversionApp.exe
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\DataTypeConversionApp\DataTypeConversionApp\bin\Debug\DataTypeConversionApp.pdb
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\DataTypeConversionApp\DataTypeConversionApp\obj\Debug\DataTypeConversionApp.csprojResolveAssemblyReference.cache
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\DataTypeConversionApp\DataTypeConversionApp\obj\Debug\DataTypeConversionApp.exe
+D:\SEIP Project (.NET)\Batch 04\15.04.2015\DataTypeConversionApp\DataTypeConversionApp\obj\Debug\DataTypeConversionApp.pdb
